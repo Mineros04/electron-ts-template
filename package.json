@@ -7,8 +7,8 @@
     "start": "npm run compile && electron ./build/main.js",
     "compile": "tsc && copyfiles -f index.html build"
   },
-  "author": "Mineros04",
-  "license": "ISC",
+  "author": "Unknown author",
+  "license": "MIT",
   "devDependencies": {
     "copyfiles": "^2.4.1",
     "electron": "^16.0.7",
